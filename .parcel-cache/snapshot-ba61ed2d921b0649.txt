@@ -43,7 +43,7 @@
 124D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\max-satisfying.js133859900378128578 0
 55D:\Documents\Projectes_uoc\uoc-boilerplate\package.json133859905513668315 0
 94D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\rimraf\dist\commonjs\path-arg.d.ts.map133859900384315912 0
-53D:\Documents\Projectes_uoc\uoc-boilerplate\.gitignore133859899448742620 0
+53D:\Documents\Projectes_uoc\uoc-boilerplate\.gitignore133859922053627706 0
 92D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2016\IteratorComplete.js133859900401330354 0
 72D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\for-each\LICENSE133859900365066512 0
 87D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\signal-exit\dist\mjs\index.d.ts133859900378150468 0
@@ -51,7 +51,7 @@
 71D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\color\README.md133859900362342197 0
 70D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\immutable\dist133859900373904968 1
 109D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\metadata\categories.yml133859905513156108 0
-47D:\Documents\Projectes_uoc\uoc-boilerplate\dist133859905641956808 1
+47D:\Documents\Projectes_uoc\uoc-boilerplate\dist133859931728732255 1
 94D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\autoprefixer\lib\hacks\writing-mode.js133859900385760997 0
 77D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\npm-run-all\README.md133859900359371516 0
 104D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\wrap-ansi-cjs\node_modules\strip-ansi\index.d.ts133859900363689680 0
@@ -257,7 +257,7 @@
 68D:\Documents\Projectes_uoc\uoc-boilerplate\src\assets\styles\layouts133859899448898875 1
 88D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2021\DateFromTime.js133859900392841098 0
 83D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\sass\types\value\mixin.d.ts133859900387158845 0
-63D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@emnapi133859905472847596 1
+63D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@emnapi133859905513628335 1
 105D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\brands\wix.svg133859905512319382 0
 91D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\type-fest\source\readonly-deep.d.ts133859900379060339 0
 109D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133859900372530891 0
@@ -275,7 +275,7 @@
 77D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\internal-slot\LICENSE133859900363547027 0
 145D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133859900380575043 0
 77D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\read-pkg\node_modules133859900328393151 1
-76D:\Documents\Projectes_uoc\uoc-boilerplate\src\assets\styles\_variables.scss133859899448898875 0
+76D:\Documents\Projectes_uoc\uoc-boilerplate\src\assets\styles\_variables.scss133859931525651582 0
 84D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\workers\lib\types.js133859900381069587 0
 92D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\resolve\test\resolver\dot_slash_main133859900387685370 1
 68D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\browserslist133859900371749863 1
@@ -1809,7 +1809,7 @@
 97D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\caniuse-lite\data\features\will-change.js133859900405140588 0
 91D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\rimraf\dist\commonjs\opt-arg.js.map133859900383948513 0
 76D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\weak-lru-cache\tests133859900365403413 1
-65D:\Documents\Projectes_uoc\uoc-boilerplate\dist\logo.5456dab3.png133859905641724368 0
+65D:\Documents\Projectes_uoc\uoc-boilerplate\dist\logo.5456dab3.png133859931728449431 0
 89D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\lru-cache\dist\esm\index.d.ts.map133859900372866977 0
 115D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\regular\square-minus.svg133859905505121794 0
 79D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2019\max.js133859900402644010 0
@@ -4978,7 +4978,7 @@
 80D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\is-arrayish\package.json133859900354933811 0
 96D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2022\OrdinaryObjectCreate.js133859900404671800 0
 80D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\js-yaml\lib\type\bool.js133859900360482843 0
-90D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\scss133859905477334028 1
+90D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\scss133859905477344018 1
 91D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2022\BigIntBitwiseOp.js133859900387409646 0
 103D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\om.svg133859905499069717 0
 83D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\immutable\dist\immutable.js133859900370539744 0
@@ -5989,7 +5989,7 @@
 80D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-to-primitive\Makefile133859900359451474 0
 78D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\transformer-js133859900366844187 1
 77D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\packager-wasm133859900367192203 1
-66D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.3377c607.css133859905641652968 0
+66D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.3377c607.css133859931728419449 0
 87D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2021\ToPrimitive.js133859900414406476 0
 121D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\clean.js133859900360482843 0
 81D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-to-primitive\README.md133859900374077456 0
@@ -6502,7 +6502,7 @@
 86D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2020\DaysInYear.js133859900393403949 0
 77D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@babel\code-frame\lib133859900361948256 1
 93D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2020\DetachArrayBuffer.js133859900394067052 0
-76D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-brands-400.ee6b33d7.woff2133859905641764343 0
+76D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-brands-400.ee6b33d7.woff2133859931728479420 0
 98D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2020\FromPropertyDescriptor.js133859900395602023 0
 79D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2020\Get.js133859900395924748 0
 87D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\caniuse-lite\data\regions\MR.js133859900400590865 0
@@ -7213,7 +7213,7 @@
 91D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2016\thisNumberValue.js133859900408492099 0
 84D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2016\TimeClip.js133859900409236112 0
 88D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2016\TimeFromYear.js133859900409418553 0
-73D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-solid-900.5e458bab.ttf133859905641876852 0
+73D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-solid-900.5e458bab.ttf133859931728627355 0
 117D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133859900379110304 0
 89D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\es-abstract\2016\TimeWithinDay.js133859900410347835 0
 88D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\js133859905476508151 1
@@ -10437,7 +10437,7 @@
 111D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\webfonts\fa-solid-900.ttf133859905513008411 0
 119D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\webfonts\fa-v4compatibility.woff2133859905513136122 0
 97D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\brands133859905512855785 1
-98D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\regular133859905512235220 1
+98D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\regular133859905512259408 1
 102D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\1.svg133859905477354009 0
 102D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\2.svg133859905477374005 0
 102D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@csstools\selector-resolve-nested\package.json133859900357875197 0
@@ -10490,7 +10490,7 @@
 103D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\at.svg133859905479070711 0
 117D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\regular\rectangle-list.svg133859905501980707 0
 105D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\atom.svg133859905479101778 0
-58D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.html133859905641744357 0
+58D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.html133859931728419449 0
 113D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\austral-sign.svg133859905479130539 0
 106D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\award.svg133859905479170537 0
 111D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\earth-asia.svg133859905487299256 0
@@ -11199,7 +11199,7 @@
 110D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\trash-can.svg133859905508260625 0
 105D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\tree.svg133859905508369745 0
 107D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\trophy.svg133859905508477738 0
-75D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-solid-900.7a8b1c1f.woff2133859905641804316 0
+75D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-solid-900.7a8b1c1f.woff2133859931728552386 0
 107D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\trowel.svg133859905508517726 0
 118D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\truck-arrow-right.svg133859905508537706 0
 112D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\@fortawesome\fontawesome-free\svgs\solid\truck-field.svg133859905508620623 0
@@ -11919,12 +11919,12 @@
 66D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\.bin\which133859900416562567 0
 70D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\.bin\which.cmd133859900416552567 0
 70D:\Documents\Projectes_uoc\uoc-boilerplate\node_modules\.bin\which.ps1133859900416552567 0
-74D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-brands-400.ba34606a.ttf133859905641734367 0
-75D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-regular-400.25087b09.ttf133859905641652968 0
-77D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-regular-400.e6d1423f.woff2133859905641724368 0
-81D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-v4compatibility.8f8c5e9b.woff2133859905641724368 0
-79D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-v4compatibility.da07418e.ttf133859905641573877 0
-70D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.3377c607.css.map133859905641936820 0
-65D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.abdb1b70.js133859905641804316 0
-69D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.abdb1b70.js.map133859905641936820 0
-66D:\Documents\Projectes_uoc\uoc-boilerplate\dist\logo.c1ba7b20.webp133859905641573877 0
+74D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-brands-400.ba34606a.ttf133859931728459434 0
+75D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-regular-400.25087b09.ttf133859931728429441 0
+77D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-regular-400.e6d1423f.woff2133859931728449431 0
+81D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-v4compatibility.8f8c5e9b.woff2133859931728449431 0
+79D:\Documents\Projectes_uoc\uoc-boilerplate\dist\fa-v4compatibility.da07418e.ttf133859931728409454 0
+70D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.3377c607.css.map133859931728712267 0
+65D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.abdb1b70.js133859931728429441 0
+69D:\Documents\Projectes_uoc\uoc-boilerplate\dist\index.abdb1b70.js.map133859931728712267 0
+66D:\Documents\Projectes_uoc\uoc-boilerplate\dist\logo.c1ba7b20.webp133859931728419449 0
