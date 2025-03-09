@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 2rem;
+    font-family: $font-family-sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: $uoc-bg;
+    color: $uoc-corporate;
+  }
+  
+  h1 {
+    color: #333;
+  }
+
+  h2 {
+    text-align: center;
+    color:cadetblue;
+  }
+
+  p {
+    position: relative;
+    padding-left: 20px; // Espacio para el icono
+
+    &::before {
+        content: "\f111"; // Código del círculo de Font Awesome
+        font-family: "Font Awesome 5 Free"; // Asegúrate de cargar la fuente
+        font-weight: 900; // Estilo de fuente para "solid"
+        position: absolute;
+        left: 0; // Posición del icono
+        top: 0;
+        color: #007bff; // Color del icono (puedes cambiarlo)
+    }    
+  }
+
+  .recetas-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 2rem;    
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+
+  .contariner-footer {
+    margin-top: 1.5rem;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  
+  .ver {
+    display: block;
+  }
+        
+  .ocultar {
+    display: none;
+  }
+
+  .text-center {
+    text-align: center;     
+  }  
+
+  #content {
+    img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 1.5rem;
+    }
+    #preparation {                
+        margin-bottom: 1.5rem;
+    }
+  }
+
+  #toggleButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    display:flex;
+    margin: auto;    
+        cursor: pointer;
+        &:hover {
+            background-color: #0056b3;
+        }
+  }
+
+  #ingredientes {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    .left {
+        flex: 1;                                
+    }
+    .right {
+        flex: 1;
+        text-align: center;
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+  }
+
+

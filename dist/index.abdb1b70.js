@@ -603,10 +603,26 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 // import SomeModule from 'some-node-module';
 /**
  * Write any other JavaScript below
- */ (function() {
+ */ const button = document.getElementById('toggleButton');
+const image = document.getElementById('image');
+const preparation = document.getElementById('preparation');
+(function() {
     const university = "UOC";
     console.log(`Hello, ${university}!`);
 })();
+button.addEventListener('click', ()=>{
+    const image = document.getElementById('image');
+    const preparation = document.getElementById('preparation');
+    if (image.classList.contains('ver')) {
+        image.classList.replace('ver', 'ocultar');
+        preparation.classList.replace('ocultar', 'ver');
+        button.innerHTML = 'Tornar';
+    } else {
+        image.classList.replace('ocultar', 'ver');
+        preparation.classList.replace('ver', 'ocultar');
+        button.innerHTML = "Mostrar Preparaci\xf3n";
+    }
+});
 
 },{}]},["beiby","5Msky"], "5Msky", "parcelRequire94c2")
 
