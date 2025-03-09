@@ -26,16 +26,15 @@
 
   p {
     position: relative;
-    padding-left: 20px; // Espacio para el icono
-
+    padding-left: 20px; 
     &::before {
-        content: "\f111"; // Código del círculo de Font Awesome
-        font-family: "Font Awesome 5 Free"; // Asegúrate de cargar la fuente
-        font-weight: 900; // Estilo de fuente para "solid"
+        content: "\f111"; 
+        font-family: "Font Awesome 5 Free"; 
+        font-weight: 900; 
         position: absolute;
-        left: 0; // Posición del icono
+        left: 0; 
         top: 0;
-        color: #007bff; // Color del icono (puedes cambiarlo)
+        color: #007bff; 
     }    
   }
 
@@ -85,7 +84,7 @@
     color: white;
     border: none;
     border-radius: 5px;
-    display:flex;
+    display: flex;
     margin: auto;    
         cursor: pointer;
         &:hover {

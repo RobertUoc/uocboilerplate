@@ -19,8 +19,6 @@ const preparation = document.getElementById('preparation');
   console.log(`Hello, ${university}!`);
 } )();
 
-
-
 button.addEventListener('click', () => { 
   const image = document.getElementById('image');
   const preparation = document.getElementById('preparation');
@@ -33,5 +31,4 @@ button.addEventListener('click', () => {
     preparation.classList.replace('ver', 'ocultar'); 
     button.innerHTML = 'Mostrar Preparación' ;
   }
-
 });
