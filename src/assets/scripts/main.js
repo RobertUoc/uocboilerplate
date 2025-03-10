@@ -25,7 +25,7 @@ button.addEventListener('click', () => {
   if (image.classList.contains('ver')) {
     image.classList.replace('ver', 'ocultar');
     preparation.classList.replace('ocultar', 'ver');   
-    button.innerHTML = 'Tornar' ;
+    button.innerHTML = 'Volver' ;
   } else {
     image.classList.replace('ocultar', 'ver');
     preparation.classList.replace('ver', 'ocultar'); 

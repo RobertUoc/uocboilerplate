@@ -4,12 +4,13 @@
   "private": true,
   "description": "Boilerplate for Advanced HTML/CSS Tools UOC students",
   "scripts": {
-    "parcel:serve": "parcel -p 8123 --target web --open",
+    "parcel:serve": "parcel -p 8123 --target web --open",    
     "parcel:build": "parcel build --target web --no-source-maps --no-cache",
     "clean": "rimraf dist .cache .cache-loader .parcel-cache",
-    "dev": "npm-run-all clean parcel:serve",
-    "build": "npm-run-all clean parcel:build",
-    "test": "echo 'Everything is working as expected ✅\nStart working on your project by running \\033[1mnpm run dev\\033[0m'"
+    "dev": "npm-run-all clean parcel:serve",    
+    "test": "echo 'Everything is working as expected ✅\nStart working on your project by running \\033[1mnpm run dev\\033[0m'",
+    "stylelint": "stylelint src/**/*.scss",
+     "build": "npm-run-all clean stylelint parcel:build"
   },
   "targets": {
     "web": {
@@ -42,7 +43,11 @@
     "postcss-preset-env": "^10.1.3",
     "posthtml-include": "^2.0.1",
     "rimraf": "^6.0.1",
-    "sharp": "^0.33.5"
+    "sharp": "^0.33.5",
+    "stylelint": "^16.15.0",
+    "stylelint-config-recess-order": "^6.0.0",
+    "stylelint-config-recommended-scss": "^14.1.0",
+    "stylelint-scss": "^6.11.1"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
